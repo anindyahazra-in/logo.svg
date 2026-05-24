@@ -1,1 +1,1 @@
-# logo.svg
+# arctura-pay-assets
